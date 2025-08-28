@@ -1,4 +1,4 @@
-# -GPT-SoVITS-
+# GPT-SoVITS
 使用GPT-SoVITS人声模型训练
 
 ·技术原理：GPT-SoVITS通过整合VITS（变分自编码器+流模型）与VALLE（语音量化自回归模型），实现了声纹克隆的两大突破：
