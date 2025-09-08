@@ -76,3 +76,6 @@ GPT-SoVITS整合包：
 
 （感谢bilibili@羽毛布団、bilibili@花儿不哭大佬们的分享和教学）
 
+还有一种移动端的语音训练方式：使用weights进行ai语音模型或者训练模型
+
+下载Google play商店，再下载weights使用就可以了，非常方便并且可以使用大家训练的模型，非常便捷
